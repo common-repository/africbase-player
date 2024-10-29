@@ -1,0 +1,10 @@
+                    AFRICBASE PRIVATE LICENSE
+                       Version 3, 14 April 2016
+
+ Copyright (C) 2016 Africbase DYTYW. <http://africbase.com/>
+ Everyone is permitted to copy and distribute verbatim copies
+ of this license document, but changing it is not allowed.
+
+                            Preamble
+
+  Is Not Allowed to change the Code structure of this plugin, if you want to do so kindly email support@africbase.com for permission
